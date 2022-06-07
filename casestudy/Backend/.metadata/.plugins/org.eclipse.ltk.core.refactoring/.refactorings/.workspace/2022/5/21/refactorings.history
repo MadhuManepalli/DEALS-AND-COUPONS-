@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;ApiZullGatewayMNew&apos; to &apos;ZuulGateway&apos;&#x0D;&#x0A;- Original element: &apos;ApiZullGatewayMNew&apos;&#x0D;&#x0A;- Renamed element: &apos;ApiZullGatewayMNew&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;ApiZullGatewayMNew&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ApiZullGatewayMNew" name="ZuulGateway" references="true" stamp="1653159286301" version="1.0"/>
+</session>
