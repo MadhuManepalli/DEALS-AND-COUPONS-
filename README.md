@@ -12,9 +12,11 @@ Flow :-
 ->Select the coupons required or user can save them to use it later (when user click on show coupon code it will show the code)
 
 Microservices used in this casestudy
-1.Admin
-2.Loginservice
-3.coupons
-4.users
+
+1.Admin.
+2.Loginservice.
+3.coupons.
+4.users.
+
 These microservices will regester in Eureka Server.
 And Zuul API Gateway is used to access the all microservices data through unquie port.
