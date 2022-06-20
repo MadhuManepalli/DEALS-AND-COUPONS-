@@ -20,3 +20,6 @@ Microservices used in this casestudy
 
 These microservices will regester in Eureka Server.
 And Zuul API Gateway is used to access the all microservices data through unquie port.
+
+FRONTEND was done using Angular.
+
